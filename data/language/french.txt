@@ -7,7 +7,7 @@ STR_0002    :Attraction
 STR_0003    :Attraction
 STR_0004    :Suspended Swinging Coaster
 STR_0005    :Attraction
-STR_0006    :Junior Roller Coaster
+STR_0006    :Montagne Russe Junior
 STR_0007    :Miniature Railway
 STR_0008    :Monorail
 STR_0009    :Mini Suspended Coaster
@@ -18,7 +18,7 @@ STR_0013    :Car Ride
 STR_0014    :Attraction
 STR_0015    :Attraction
 STR_0016    :Attraction
-STR_0017    :Looping Roller Coaster
+STR_0017    :Montagne Russe Looping
 STR_0018    :Attraction
 STR_0019    :Attraction
 STR_0020    :Chairlift
@@ -66,7 +66,7 @@ STR_0061    :Attraction
 STR_0062    :Attraction
 STR_0063    :Attraction
 STR_0064    :Attraction
-STR_0065    :Suspended Monorail
+STR_0065    :Monorail Suspendu
 STR_0066    :Attraction
 STR_0067    :Attraction
 STR_0068    :Heartline Twister Coaster
@@ -90,7 +90,7 @@ STR_0085    :Attraction
 STR_0086    :Attraction
 STR_0087    :Attraction
 STR_0088    :Attraction
-STR_0089    :Mini Roller Coaster
+STR_0089    :Mini Montagne Russe
 STR_0090    :Attraction
 STR_0091    :Attraction
 STR_0092    :Attraction
@@ -779,7 +779,7 @@ STR_0774    :Parc sans nom{POP16}{POP16}
 STR_0775    :Parc sans nom{POP16}{POP16}
 STR_0776    :Parc sans nom{POP16}{POP16}
 STR_0777    :Parc sans nom{POP16}{POP16}
-STR_0778    :Sign
+STR_0778    :Panneau
 STR_0779    :1er
 STR_0780    :2ème
 STR_0781    :3ème
@@ -827,8 +827,8 @@ STR_0822    :Unable to access graphic data file
 STR_0823    :Missing or inaccessible data file
 STR_0824    :{BLACK}{CROSS}
 STR_0825    :Chosen name in use already
-STR_0826    :Too many names defined
-STR_0827    :Not enough cash - requires {CURRENCY2DP}
+STR_0826    :Trop de noms définis
+STR_0827    :Pas assez d'argent - requière {CURRENCY2DP}
 STR_0828    :{SMALLFONT}{BLACK}Close window
 STR_0829    :{SMALLFONT}{BLACK}Window title - Drag this to move window
 STR_0830    :{SMALLFONT}{BLACK}Zoom view in
@@ -836,7 +836,7 @@ STR_0831    :{SMALLFONT}{BLACK}Zoom view out
 STR_0832    :{SMALLFONT}{BLACK}Rotate view 90{DEGREE} clockwise
 STR_0833    :{SMALLFONT}{BLACK}Pause game
 STR_0834    :{SMALLFONT}{BLACK}Disk and game options
-STR_0835    :Game initialization failed
+STR_0835    :Initialisation du jeu impossible
 STR_0836    :Unable to start game in a minimized state
 STR_0837    :Unable to initialize graphics system
 STR_0838    :CD key code {INT32} is not valid for your RollerCoaster Tycoon 2 CD !{WINDOW_COLOUR_1}{WINDOW_COLOUR_1}Please un-install RollerCoaster Tycoon 2% and re-install with the correct CD Key Code
@@ -858,7 +858,7 @@ STR_0853    :{WINDOW_COLOUR_2}Son et musique : Allister Brimble
 STR_0854    :{WINDOW_COLOUR_2}Enregistrement sons additionnels : David Ellis
 STR_0855    :{WINDOW_COLOUR_2}Représentation :Jacqui Lyons, Marjacq Ltd.
 STR_0856    :{WINDOW_COLOUR_2}Remerciements:
-STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth, and John Wardley
+STR_0857    :{WINDOW_COLOUR_2}Peter James Adcock, Joe Booth, et John Wardley
 STR_0858    :{WINDOW_COLOUR_2}
 STR_0859    :{WINDOW_COLOUR_2}
 STR_0860    :{WINDOW_COLOUR_2}
@@ -878,23 +878,23 @@ STR_0873    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0874    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0875    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{STRINGID}
 STR_0876    :{BLACK}{DOWN}
-STR_0877    :Too low !
-STR_0878    :Too high !
+STR_0877    :Trop bas !
+STR_0878    :Trop haut !
 STR_0879    :Can't lower land here...
 STR_0880    :Can't raise land here...
-STR_0881    :Object in the way
+STR_0881    :Object sur le chemin
 STR_0882    :Charger partie
 STR_0883    :Sauvegarder partie
 STR_0884    :Load Landscape
 STR_0885    :Save Landscape
 STR_0886    :Quitter la partie
 STR_0887    :Quitter l'Editeur de scénario
-STR_0888    :Quitter Roller Coaster Designer
-STR_0889    :Quit Track Designs Manager
+STR_0888    :Quitter l'Editeur de montagnes russes
+STR_0889    :Quitter Track Designs Manager
 STR_0890    :SCR{COMMA16}.BMP
 STR_0891    :Capture d'écran
-STR_0892    :Screenshot saved to disk as '{STRINGID}'
-STR_0893    :Screenshot failed !
+STR_0892    :Capture d'écran sauvergardée sur le disque dans '{STRINGID}'
+STR_0893    :Capture d'écran impossible !
 STR_0894    :Landscape data area full !
 STR_0895    :Can't build partly above and partly below ground
 STR_0896    :{POP16}{POP16}{STRINGID} Construction
@@ -927,8 +927,8 @@ STR_0922    :{SMALLFONT}{BLACK}Steep slope up
 STR_0923    :{SMALLFONT}{BLACK}Vertical rise
 STR_0924    :{SMALLFONT}{BLACK}Helix down
 STR_0925    :{SMALLFONT}{BLACK}Helix up
-STR_0926    :Can't remove this...
-STR_0927    :Can't construct this here...
+STR_0926    :Impossible de supprimer ceci...
+STR_0927    :Impossible de construire ici...
 STR_0928    :{SMALLFONT}{BLACK}Chain lift, to pull cars up slopes
 STR_0929    :'S' Bend (left)
 STR_0930    :'S' Bend (right)
@@ -948,9 +948,9 @@ STR_0943    :Décor transparent
 STR_0944    :Sauvegarder
 STR_0945    :Ne pas sauvegarder
 STR_0946    :Annuler
-STR_0947    :Save this before loading ?
-STR_0948    :Save this before quitting ?
-STR_0949    :Save this before quitting ?
+STR_0947    :Sauvegarder avant de charger ?
+STR_0948    :Sauvegarder avant de quitter ?
+STR_0949    :Sauvegarder avant de quitter ?
 STR_0950    :Charger une partie
 STR_0951    :Quitter la partie
 STR_0952    :Quitter la partie
@@ -984,22 +984,22 @@ STR_0979    :Nouvelles montagnes russes
 STR_0980    :New Thrill Rides
 STR_0981    :New Water Rides
 STR_0982    :New Shops & Stalls
-STR_0983    :Research & Development
+STR_0983    :Recherche & Dévelopemment
 STR_0984    :{WINDOW_COLOUR_2}{UP}{BLACK}  {CURRENCY2DP}
 STR_0985    :{WINDOW_COLOUR_2}{DOWN}{BLACK}  {CURRENCY2DP}
 STR_0986    :{BLACK}{CURRENCY2DP}
-STR_0987    :Too many rides/attractions
-STR_0988    :Can't create new ride/attraction...
+STR_0987    :Trop d'attractions
+STR_0988    :Impossible de créer une nouvelle attraction...
 STR_0989    :{STRINGID}
 STR_0990    :{SMALLFONT}{BLACK}Construction
 STR_0991    :Station platform
 STR_0992    :{SMALLFONT}{BLACK}Demolish entire ride/attraction
-STR_0993    :Demolish ride/attraction
-STR_0994    :Demolish
+STR_0993    :Démolir attraction
+STR_0994    :Démolir
 STR_0995    :{WINDOW_COLOUR_1}Are you sure you want to completely demolish {STRINGID}?
 STR_0996    :Overall view
 STR_0997    :{SMALLFONT}{BLACK}View selection
-STR_0998    :No more stations allowed on this ride
+STR_0998    :Plus aucune station n'est allouée sur cette attraction
 STR_0999    :Requires a station platform
 STR_1000    :Track is not a complete circuit
 STR_1001    :Track unsuitable for type of train
@@ -1029,7 +1029,7 @@ STR_1024    :{COMMA16} voiture par train
 STR_1025    :{COMMA16} voitures par train
 STR_1026    :Station platform too long!
 STR_1027    :{SMALLFONT}{BLACK}Locate this on Main View
-STR_1028    :Off edge of map!
+STR_1028    :Hors des limites de la carte!
 STR_1029    :Cannot build partly above and partly below water!
 STR_1030    :Can only build this underwater!
 STR_1031    :Can't build this underwater!
@@ -1039,7 +1039,7 @@ STR_1034    :Can only build this on land!
 STR_1035    :Local authority won't allow construction above tree-height!
 STR_1036    :Charger une partie
 STR_1037    :Load Landscape
-STR_1038    :Convert saved game to scenario
+STR_1038    :Convertire la sauvegarde en scénario
 STR_1039    :Install new track design
 STR_1040    :Sauvegarder la partie
 STR_1041    :Sauvegarder le scénario
@@ -1961,7 +1961,7 @@ STR_1956    :{SMALLFONT}{BLACK}Number of circuits of track per ride
 STR_1957    :{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{POP16}{COMMA16}
 STR_1958    :{COMMA16}
 STR_1959    :Can't change number of circuits...
-STR_1960    :{WINDOW_COLOUR_2}Balloon price:
+STR_1960    :{WINDOW_COLOUR_2}Ballon price:
 STR_1961    :{WINDOW_COLOUR_2}Cuddly Toy price:
 STR_1962    :{WINDOW_COLOUR_2}Park Map price:
 STR_1963    :{WINDOW_COLOUR_2}On-Ride Photo price:
@@ -1989,99 +1989,99 @@ STR_1984    :{WINDOW_COLOUR_2}Fried Chicken price:
 STR_1985    :{WINDOW_COLOUR_2}Lemonade price:
 STR_1986    :{WINDOW_COLOUR_2}
 STR_1987    :{WINDOW_COLOUR_2}
-STR_1988    :Balloon
+STR_1988    :Ballons
 STR_1989    :Cuddly Toy
-STR_1990    :Park Map
+STR_1990    :Carte du parc
 STR_1991    :On-Ride Photo
-STR_1992    :Umbrella
-STR_1993    :Drink
-STR_1994    :Burger
-STR_1995    :Fries
-STR_1996    :Ice Cream
+STR_1992    :Parapluie
+STR_1993    :Boisson
+STR_1994    :Hamburger
+STR_1995    :Frites
+STR_1996    :Glaces
 STR_1997    :Cotton Candy
-STR_1998    :Empty Can
+STR_1998    :Canette vide
 STR_1999    :Rubbish
-STR_2000    :Empty Burger Box
+STR_2000    :Boite d'hamburger vide
 STR_2001    :Pizza
 STR_2002    :Voucher
 STR_2003    :Popcorn
 STR_2004    :Hot Dog
-STR_2005    :Tentacle
-STR_2006    :Hat
-STR_2007    :Candy Apple
+STR_2005    :Tentacule
+STR_2006    :Chapeau
+STR_2007    :Pomme d'amour
 STR_2008    :T-Shirt
 STR_2009    :Donut
-STR_2010    :Coffee
+STR_2010    :Café
 STR_2011    :Empty Cup
-STR_2012    :Fried Chicken
-STR_2013    :Lemonade
-STR_2014    :Empty Box
-STR_2015    :Empty Bottle
-STR_2016    :Balloons
+STR_2012    :Poulet frit
+STR_2013    :Limonade
+STR_2014    :Boite vide
+STR_2015    :Bouteille vide
+STR_2016    :Ballons
 STR_2017    :Cuddly Toys
-STR_2018    :Park Maps
+STR_2018    :Carte du parc
 STR_2019    :On-Ride Photos
-STR_2020    :Umbrellas
-STR_2021    :Drinks
-STR_2022    :Burgers
-STR_2023    :Fries
-STR_2024    :Ice Creams
+STR_2020    :Parapluies
+STR_2021    :Boissons
+STR_2022    :Hamburgers
+STR_2023    :Frites
+STR_2024    :Glaces
 STR_2025    :Cotton Candy
-STR_2026    :Empty Cans
+STR_2026    :Canettes vides
 STR_2027    :Rubbish
 STR_2028    :Empty Burger Boxes
 STR_2029    :Pizzas
 STR_2030    :Vouchers
-STR_2031    :Popcorn
+STR_2031    :Popcorns
 STR_2032    :Hot Dogs
-STR_2033    :Tentacles
-STR_2034    :Hats
-STR_2035    :Candy Apples
+STR_2033    :Tentacules
+STR_2034    :Chapeaux
+STR_2035    :Pommes d'amours
 STR_2036    :T-Shirts
 STR_2037    :Donuts
-STR_2038    :Coffees
-STR_2039    :Empty Cups
-STR_2040    :Fried Chicken
-STR_2041    :Lemonade
-STR_2042    :Empty Boxes
-STR_2043    :Empty Bottles
-STR_2044    :a Balloon
+STR_2038    :Cafés
+STR_2039    :Tasses vides
+STR_2040    :Poulet frit
+STR_2041    :Limonade
+STR_2042    :Boites vides
+STR_2043    :Bouteilles vides
+STR_2044    :un Ballon
 STR_2045    :a Cuddly Toy
-STR_2046    :a Park Map
+STR_2046    :une Carte du parc
 STR_2047    :an On-Ride Photo
-STR_2048    :an Umbrella
-STR_2049    :a Drink
-STR_2050    :a Burger
-STR_2051    :some Fries
-STR_2052    :an Ice Cream
+STR_2048    :un Parapluie
+STR_2049    :une Boisson
+STR_2050    :un Hamburger
+STR_2051    :des Frites
+STR_2052    :une Glace
 STR_2053    :some Cotton Candy
-STR_2054    :an Empty Can
+STR_2054    :une Canette vide
 STR_2055    :some Rubbish
-STR_2056    :an Empty Burger Box
+STR_2056    :une Boite d'hamburger vide
 STR_2057    :a Pizza
 STR_2058    :a Voucher
-STR_2059    :some Popcorn
+STR_2059    :des Popcorn
 STR_2060    :a Hot Dog
-STR_2061    :a Tentacle
-STR_2062    :a Hat
-STR_2063    :a Candy Apple
-STR_2064    :a T-Shirt
-STR_2065    :a Donut
-STR_2066    :a Coffee
-STR_2067    :an Empty Cup
-STR_2068    :some Fried Chicken
-STR_2069    :some Lemonade
-STR_2070    :an Empty Box
-STR_2071    :an Empty Bottle
-STR_2072    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Balloon
+STR_2061    :une Tentacule
+STR_2062    :un Chapeau
+STR_2063    :une Pomme d'amour
+STR_2064    :un T-Shirt
+STR_2065    :un Donut
+STR_2066    :un Café
+STR_2067    :une Tasse vide
+STR_2068    :du Poulet frit
+STR_2069    :de la Limonade
+STR_2070    :une Boite vide
+STR_2071    :une Bouteille vide
+STR_2072    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Ballon
 STR_2073    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Cuddly Toy
-STR_2074    :Map of {STRINGID}
+STR_2074    :Carte de {STRINGID}
 STR_2075    :On-Ride Photo of {STRINGID}
-STR_2076    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Umbrella
-STR_2077    :Drink
-STR_2078    :Burger
-STR_2079    :Fries
-STR_2080    :Ice Cream
+STR_2076    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Parapluie
+STR_2077    :Boisson
+STR_2078    :Hamburger
+STR_2079    :Frites
+STR_2080    :Glace
 STR_2081    :Cotton Candy
 STR_2082    :Empty Can
 STR_2083    :Rubbish
@@ -2090,17 +2090,17 @@ STR_2085    :Pizza
 STR_2086    :Voucher for {STRINGID}
 STR_2087    :Popcorn
 STR_2088    :Hot Dog
-STR_2089    :Tentacle
-STR_2090    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Hat
-STR_2091    :Candy Apple
+STR_2089    :Tentacule
+STR_2090    :{OPENQUOTES}{STRINGID}{ENDQUOTES} Chapeau
+STR_2091    :Pomme d'amour
 STR_2092    :{OPENQUOTES}{STRINGID}{ENDQUOTES} T-Shirt
 STR_2093    :Donut
-STR_2094    :Coffee
+STR_2094    :Café
 STR_2095    :Empty Cup
-STR_2096    :Fried Chicken
-STR_2097    :Lemonade
-STR_2098    :Empty Box
-STR_2099    :Empty Bottle
+STR_2096    :Poulet frit
+STR_2097    :Limonade
+STR_2098    :Boite vide
+STR_2099    :Bouteille vide
 STR_2100    :{WINDOW_COLOUR_2}On-Ride Photo price:
 STR_2101    :{WINDOW_COLOUR_2}On-Ride Photo price:
 STR_2102    :{WINDOW_COLOUR_2}On-Ride Photo price:
@@ -2681,37 +2681,37 @@ STR_2676    :???
 STR_2677    :???
 STR_2678    :???
 STR_2679    :???
-STR_2680    :All research complete
-STR_2681    :{MEDIUMFONT}{BLACK}Increases your money by 5,000
+STR_2680    :Toutes les recherches complétées
+STR_2681    :{MEDIUMFONT}{BLACK}Augmente votre argent de 5,000
 STR_2682    :{MEDIUMFONT}{BLACK}Toggle between Free and Paid Entry
 STR_2683    :{MEDIUMFONT}{BLACK}Increases every peeps happiness to max
-STR_2684    :{MEDIUMFONT}{BLACK}Large group of peeps arrive
+STR_2684    :{MEDIUMFONT}{BLACK}Un grand groupe de visiteurs arrive
 STR_2685    :Simplex Noise Parameters
-STR_2686    :{WINDOW_COLOUR_2}Low:
-STR_2687    :{WINDOW_COLOUR_2}High:
+STR_2686    :{WINDOW_COLOUR_2}Bas:
+STR_2687    :{WINDOW_COLOUR_2}Haut:
 STR_2688    :{WINDOW_COLOUR_2}Base Frequency:
 STR_2689    :{WINDOW_COLOUR_2}Octaves:
 STR_2690    :Map Generation
 STR_2691    :{WINDOW_COLOUR_2}Base height:
-STR_2692    :{WINDOW_COLOUR_2}Water level:
+STR_2692    :{WINDOW_COLOUR_2}Niveau de l'eau:
 STR_2693    :{WINDOW_COLOUR_2}Terrain:
-STR_2694    :Generate
+STR_2694    :Generé
 STR_2695    :Random terrain
-STR_2696    :Place trees
+STR_2696    :Placer des arbres
 STR_2697    :???
 STR_2698    :???
 STR_2699    :???
 STR_2700    :Autosave frequency:
-STR_2701    :Every week
-STR_2702    :Every 2 weeks
-STR_2703    :Every month
-STR_2704    :Every 4 months
-STR_2705    :Every year
+STR_2701    :Toutes les semaines
+STR_2702    :Toutes les 2 semaines
+STR_2703    :Tous les mois
+STR_2704    :Tous les 4 mois
+STR_2705    :Chaque année
 STR_2706    :Jamais
-STR_2707    :Open new window
+STR_2707    :Ouvrir une nouvelle fenêtre
 STR_2708    :{WINDOW_COLOUR_1}Are you sure you want to overwrite {STRINGID}?
 STR_2709    :Overwrite
-STR_2710    :Type the name of the file.
+STR_2710    :Ecrivez le nom du fichier.
 STR_2711    :;
 STR_2712    :=
 STR_2713    :,
@@ -2719,7 +2719,7 @@ STR_2714    :-
 STR_2715    :.
 STR_2716    :/
 STR_2717    :'
-STR_2718    :(up)
+STR_2718    :(monter)
 STR_2719    :(nouveau fichier)
 STR_2720    :{UINT16}s
 STR_2721    :{UINT16}s
@@ -2753,13 +2753,13 @@ STR_2748    :Bar
 STR_2749    :Mon nouveau scénario
 STR_2750    :Move all items to top
 STR_2751    :Move all items to bottom
-STR_2752    :Clear grass
-STR_2753    :Mowed grass
+STR_2752    :Enlever la mauvaise herbe
+STR_2753    :Herbe tondue
 STR_2754    :Water plants
-STR_2755    :Fix vandalism
+STR_2755    :Réparer le vendalisme
 STR_2756    :Remove litter
-STR_2757    :Force Sun
-STR_2758    :Force Thunder
+STR_2757    :Forcer le soleil
+STR_2758    :Forcer l'orage
 STR_2759    :Zero Clearance
 # New strings used in the cheats window previously these were ???
 STR_2760    :+5000 d'argent
@@ -2773,8 +2773,8 @@ STR_2767    :Freeze Climate
 STR_2768    :Unfreeze Climate
 STR_2769    :Ouvrir le parc
 STR_2770    :Fermer le parc
-STR_2771    :Slower Gamespeed
-STR_2772    :Faster Gamespeed
+STR_2771    :Vitesse de jeu lente
+STR_2772    :Vitesse de jeu rapide
 STR_2773    :En une fenêtre
 STR_2774    :Plein écran
 STR_2775    :Plein écran (desktop)
@@ -2787,11 +2787,11 @@ STR_2780    :Extra viewport
 STR_2781    :{STRINGID}:{MOVE_X}{195}{STRINGID}{STRINGID}
 STR_2782    :SHIFT + 
 STR_2783    :CTRL + 
-STR_2784    :Change keyboard shortcut
+STR_2784    :Changer les raccourcis clavier
 STR_2785    :{WINDOW_COLOUR_2}Press new shortcut key for:{NEWLINE}{OPENQUOTES}{STRINGID}{ENDQUOTES}
 STR_2786    :{SMALLFONT}{BLACK}Click on shortcut description to select new key
 STR_2787    :{WINDOW_COLOUR_2}Park value: {BLACK}{CURRENCY}
-STR_2788    :{WINDOW_COLOUR_2}Congratulations !{NEWLINE}{BLACK}You achieved your objective with a company value of {CURRENCY} !
+STR_2788    :{WINDOW_COLOUR_2}Bravo !{NEWLINE}{BLACK}You achieved your objective with a company value of {CURRENCY} !
 STR_2789    :{WINDOW_COLOUR_2}You have failed your objective !
 STR_2790    :Enter name into scenario chart
 STR_2791    :Enter name
@@ -2834,17 +2834,18 @@ STR_2827    :{WINDOW_COLOUR_2}Best custom-designed rides award
 STR_2828    :{WINDOW_COLOUR_2}Most dazzling ride color schemes award
 STR_2829    :{WINDOW_COLOUR_2}Most confusing park layout award
 STR_2830    :{WINDOW_COLOUR_2}Best gentle ride award
-STR_2831    :{TOPAZ}Your park has received an award for being 'The most untidy park in the country'!
-STR_2832    :{TOPAZ}Your park has received an award for being 'The tidiest park in the country'!
-STR_2833    :{TOPAZ}Your park has received an award for being 'The park with the best roller coasters'!
-STR_2834    :{TOPAZ}Your park has received an award for being 'The best value park in the country'!
-STR_2835    :{TOPAZ}Your park has received an award for being 'The most beautiful park in the country'!
-STR_2836    :{TOPAZ}Your park has received an award for being 'The worst value park in the country'!
-STR_2837    :{TOPAZ}Your park has received an award for being 'The safest park in the country'!
-STR_2838    :{TOPAZ}Your park has received an award for being 'The park with the best staff'!
-STR_2839    :{TOPAZ}Your park has received an award for being 'The park with the best food in the country'!
-STR_2840    :{TOPAZ}Your park has received an award for being 'The park with the worst food in the country'!
-STR_2841    :{TOPAZ}Your park has received an award for being 'The park with the best restroom facilities in the country'!
+STR_2831    :{TOPAZ}Votre parc a reçu le trophée 'The most untidy park in the country'!
+STR_2832    :{TOPAZ}Votre parc a reçu le trophée 'The tidiest park in the country'!
+STR_2833    :{TOPAZ}Votre parc a reçu le trophée 'des meillieurs montagnes russes du pays'!
+STR_2834    :{TOPAZ}Votre parc a reçu le trophée 'The best value park in the country'!
+STR_2835    :{TOPAZ}Votre parc a reçu le trophée 'du plus beau parc du pays'!
+STR_2836    :{TOPAZ}Votre parc a reçu le trophée 'The worst value park in the country'!
+STR_2837    :{TOPAZ}Votre parc a reçu le trophée 'du parc le plus sûr du pays'!
+STR_2838    :{TOPAZ}Votre parc a reçu le trophée 'du parc avec le meillieur personnel'!
+STR_2839    :{TOPAZ}Votre parc a reçu le trophée 'du parc avec la meillieur nourriture'!
+STR_2840    :{TOPAZ}Votre parc a reçu le trophée 'du parc avec la pire nourriture'!
+STR_2841    :{TOPAZ}Votre parc a reçu le trophée 'du parc avec les meillieurs toilettes du pays'!
+
 STR_2842    :{TOPAZ}Your park has received an award for being 'The most disappointing park in the country'!
 STR_2843    :{TOPAZ}Your park has received an award for being 'The park with the best water rides in the country'!
 STR_2844    :{TOPAZ}Your park has received an award for being 'The park with the best custom-designed rides'!
@@ -2994,11 +2995,11 @@ STR_2987    :{SMALLFONT}{BLACK}Set this banner as a 'no-entry' sign for guests
 STR_2988    :{SMALLFONT}{BLACK}Demolish this banner
 STR_2989    :{SMALLFONT}{BLACK}Select main color
 STR_2990    :{SMALLFONT}{BLACK}Select text color
-STR_2991    :Sign
-STR_2992    :Sign text
-STR_2993    :Enter new text for this sign:
-STR_2994    :{SMALLFONT}{BLACK}Change text on sign
-STR_2995    :{SMALLFONT}{BLACK}Demolish this sign
+STR_2991    :Panneau
+STR_2992    :Texte panneau
+STR_2993    :Entrez un nouveau texte pour ce panneau:
+STR_2994    :{SMALLFONT}{BLACK}Changer le texte du panneau
+STR_2995    :{SMALLFONT}{BLACK}Démolir le panneau
 STR_2996    :{BLACK}ABC
 STR_2997    :{GREY}ABC
 STR_2998    :{WHITE}ABC
@@ -3461,9 +3462,9 @@ STR_5126    :Random title music
 STR_5127    :{SMALLFONT}{BLACK}Disable land elevation
 STR_5128    :Selection size
 STR_5129    :Enter selection size between {COMMA16} and {COMMA16}
-STR_5130    :Map size
+STR_5130    :Taille de la carte
 STR_5131    :Enter map size between {COMMA16} and {COMMA16}
-STR_5132    :Fix all rides
+STR_5132    :Réparer toutes les attractions
 STR_5133    :{SMALLFONT}{BLACK}Adjust smaller area of land rights
 STR_5134    :{SMALLFONT}{BLACK}Adjust larger area of land rights
 STR_5135    :{SMALLFONT}{BLACK}Buy land rights and construction rights
@@ -3472,12 +3473,12 @@ STR_5137    :Allow lift hill and launch speeds{NEWLINE}up to {VELOCITY}
 STR_5138    :{SMALLFONT}{WINDOW_COLOUR_2}{STRINGID}
 STR_5139    :{WHITE}{STRINGID}
 STR_5140    :Disable brakes failure
-STR_5141    :Disable all breakdowns
-STR_5142    :Normal Speed
+STR_5141    :Désactiver les pannes
+STR_5142    :Vitesse normale
 STR_5143    :Quick Speed
 STR_5144    :Fast Speed
-STR_5145    :Turbo Speed
-STR_5146    :Hyper Speed
+STR_5145    :Vitesse turbo
+STR_5146    :Hyper vitesse
 STR_5147    :Show cheats button on toolbar
 STR_5148    :{SMALLFONT}{BLACK}Change the game speed
 STR_5149    :{SMALLFONT}{BLACK}Open the cheats window
@@ -3488,11 +3489,11 @@ STR_5151    :.
 STR_5152    :,
 STR_5153    :Colour schemes...
 STR_5154    :Hardware display
-STR_5155    :Allow testing of unfinished tracks
+STR_5155    :Activer les tests sur des attractions non terminées
 STR_5156    :{SMALLFONT}{BLACK}Allows testing of most ride types even when the track is unfinished, does not apply to block sectioned modes
 STR_5157    :Unlock all prices
-STR_5158    :Quit to menu
-STR_5159    :Exit OpenRCT2
+STR_5158    :Quitter vers le menu
+STR_5159    :Quitter OpenRCT2
 STR_5160    :{MONTH} {STRINGID}, Year {COMMA16}
 STR_5161    :Date Format:
 STR_5162    :Day/Month/Year
@@ -3509,7 +3510,7 @@ STR_5172    :{SMALLFONT}{BLACK}Will turn on tracking information for guests name
 STR_5173    :Pull Twitch chat as news
 STR_5174    :{SMALLFONT}{BLACK}Will use Twitch chat messages preceded by !news for in game notifications
 STR_5175    :Input the name of your Twitch channel
-STR_5176    :Enable Twitch integration
+STR_5176    :Activer l'intégration de Twitch
 STR_5177    :Fullscreen mode:
 STR_5178    :{SMALLFONT}{BLACK}Show financial cheats
 STR_5179    :{SMALLFONT}{BLACK}Show guest cheats
@@ -3522,12 +3523,12 @@ STR_5185    :Water level
 STR_5186    :Enter water level between {COMMA16} and {COMMA16} 
 STR_5187    :Finances
 STR_5188    :New Campaign
-STR_5189    :Research
-STR_5190    :Map
+STR_5189    :Recherche
+STR_5190    :Carte
 STR_5191    :Viewport
 STR_5192    :Recent News
 STR_5193    :Land
-STR_5194    :Water
+STR_5194    :Eau
 STR_5195    :Clear Scenery
 STR_5196    :Land Rights
 STR_5197    :Scenery
@@ -3550,7 +3551,7 @@ STR_5213    :Objective Options
 STR_5214    :Map Generation
 STR_5215    :Track Design Manager
 STR_5216    :Track Design Manager List
-STR_5217    :Cheats
+STR_5217    :Triche
 STR_5218    :Themes
 STR_5219    :Options
 STR_5220    :Keyboard Shortcuts
@@ -3594,7 +3595,7 @@ STR_5257    :{SMALLFONT}{BLACK}Create a new theme based on the current one
 STR_5258    :{SMALLFONT}{BLACK}Delete the current theme
 STR_5259    :{SMALLFONT}{BLACK}Rename the current theme
 STR_5260    :Giant Screenshot
-STR_5261    :Filter
+STR_5261    :Filtre
 STR_5262    :Wacky Worlds
 STR_5263    :Time Twister
 STR_5264    :Custom
@@ -3608,6 +3609,6 @@ STR_5271    :{SMALLFONT}{BLACK}Twitch
 STR_5272    :{SMALLFONT}{BLACK}Small Scenery
 STR_5273    :{SMALLFONT}{BLACK}Large Scenery
 STR_5274    :{SMALLFONT}{BLACK}Footpaths
-STR_5275    :Search for Objects
+STR_5275    :Rechercher un object
 STR_5276    :Enter the name of an object to search for
 STR_5277    :Clear
